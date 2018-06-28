@@ -37,3 +37,4 @@ ENV/
 .*.swp
 .bak
 /.project
+.python-version

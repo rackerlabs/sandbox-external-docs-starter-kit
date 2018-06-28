@@ -1,8 +1,0 @@
-{
-  "contentIDBase": "https://github.com/rackerlabs/<repoName>/",
-  "githubUrl": "https://github.com/rackerlabs/docs-rackspace/",
-  "githubBranch": "master",
-  "meta": {
-    "preferGithubIssues": true
-  }
-}
